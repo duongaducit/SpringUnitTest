@@ -1,0 +1,46 @@
+button {
+    width: 100%;
+}
+table.table.table-bordered {
+    margin-left:20px;
+    margin-right:20px;
+}
+.panel-body {
+    margin-right: 5%;
+    margin-left: 5%;
+}
+.panel-footer {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+label.title {
+    font-size:36px;
+    color:green;
+}
+.panel-footers {
+    text-align:center;
+}
+label.label-total {
+    float:right;
+}
+ul.pagination {
+    height:30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+label.p-paging {
+    height: 30px;
+}
+label.p-search {
+	padding-left: 15%;
+}
+
+label.p-save {
+    float:right;
+}
+th {
+    background-color: #00ff00;
+}
+a.newTask {
+    float: right;
+}
